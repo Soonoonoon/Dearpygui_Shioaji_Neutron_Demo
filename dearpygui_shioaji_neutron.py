@@ -2,7 +2,7 @@ import dearpygui.dearpygui as dpg
 from tkinter import messagebox
 import tkinter as tk
 import os,time,threading,datetime
-from tkinter.filedialog import *
+
 import DataUse,API
 
 Font0=r'NotoSerifTC-SemiBold.otf'
