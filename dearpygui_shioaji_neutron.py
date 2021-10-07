@@ -1,6 +1,4 @@
 import dearpygui.dearpygui as dpg
-from tkinter import messagebox
-import tkinter as tk
 import os,time,threading,datetime
 
 import DataUse,API
